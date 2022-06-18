@@ -14,6 +14,9 @@ Skills:  REACT || JS HTML || CSS
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub metrics](https://metrics.lecoq.io/Kibria934)  
+
+![GitHub metrics](https://metrics.lecoq.io/Kibria934)
+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Kibria934)  
+
 ![Profile views](https://gpvc.arturio.dev/Kibria934)  
