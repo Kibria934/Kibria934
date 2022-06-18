@@ -11,7 +11,7 @@ Skills:  REACT || JS HTML || CSS
 - 🔭 I’m currently working on Morion Enterprise 
 - 🌱 I’m currently learning Redux 
 - 📫 How to reach me: Mail: kibriahossain934@gmail.com 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Kibria934)  
 
