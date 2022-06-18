@@ -13,8 +13,6 @@ Skills:  REACT || JS HTML || CSS
 - 📫 How to reach me: Mail: kibriahossain934@gmail.com 
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Kibria934)  
-
 ![GitHub metrics](https://metrics.lecoq.io/Kibria934)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Kibria934)  
