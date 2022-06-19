@@ -22,5 +22,3 @@ Skills:  REACT || JS HTML || CSS
 
 ![Profile views](https://gpvc.arturio.dev/Kibria934)  
 
-![GitHub metrics](https://metrics.lecoq.io/Kibria934)
-
