@@ -6,8 +6,8 @@
 I am a full-stack developer. I am passionate to learn more about web development. I have a passion for learning and sharing my knowledge with others. My hobby is coding. Most of the time I work with React.js and Node.js. 
 
 Skills are: 
--React.js
--JavaScript
+- React.js
+- JavaScript
 
 - 🔭 I’m currently working on Morion Enterprise 
 - 🌱 I’m currently learning Redux 
