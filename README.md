@@ -2,7 +2,7 @@
 ## I am Md.Kibria
 #### Jr. Full-Stack Developer
 
-<p style='color:red'> Hi am there! </p>
+<p style='color:red; font-size:bold;'> Hi am there! </p>
 
 I am a full-stack developer. I am passionate to learn more about web development. I have a passion for learning and sharing my knowledge with others. My hobby is coding. Most of the time I work with React.js and Node.js. 
 
