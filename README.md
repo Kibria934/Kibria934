@@ -1,12 +1,11 @@
 ![Jr. Full-Stack Developer](https://avatars.githubusercontent.com/u/96879216?v=4)
 ## I am Md.Kibria
-#### Jr. Full-Stack Developer
+### Jr. Full-Stack Developer
 
-<p style='color:red; font-size:bold;'> Hi am there! </p>
 
 I am a full-stack developer. I am passionate to learn more about web development. I have a passion for learning and sharing my knowledge with others. My hobby is coding. Most of the time I work with React.js and Node.js. 
 
-Skills:  REACT || JS HTML || CSS 
+Skills:-  REACT || JS HTML || CSS 
          NODE || EXPRESS || TAILWIND 
          BOOTSTRAP || FIREBASE
 
